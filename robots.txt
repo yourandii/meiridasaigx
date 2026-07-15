@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yourandii.github.io/meiridasaigx/sitemap.xml
